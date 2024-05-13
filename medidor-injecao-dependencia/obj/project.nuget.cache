@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUhkakgYfXniIhADqCw4QliLPTYvNF3IAs/SHxB2WuJBq37cR4jiQmnIsvXOlbQwn/6r9uykFMxQcphUfAWDmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fsilb\\OneDrive\\Documentos\\ponderada-hermanoS4M10\\medidor-injecao-dependencia\\medidor-injecao-dependencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsilb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\fsilb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\fsilb\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcJELXSDk9DBKNuH3RXGnUkM1aTnav1Xg2ZHY1bbzW7F2IKwCJZi9xj9SfQHSq6mRs3NtgprE5Mh6Nzr/8jegg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fsilb\\OneDrive\\Documentos\\ponderada-hermanoS4M10\\metrica-personalizada\\metrica-personalizada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fsilb\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
